@@ -1,3 +1,7 @@
+'''Game Name:  CarRace Defence
+            author:   @Tushar
+            End
+              '''
 import pygame
 import time
 import random
